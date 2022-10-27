@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 5\1Dimension\bin\Debug\1Dimension.exe.config
+G:\52020007\Pemg Visual\Modul 5\1Dimension\bin\Debug\1Dimension.exe
+G:\52020007\Pemg Visual\Modul 5\1Dimension\bin\Debug\1Dimension.pdb
+G:\52020007\Pemg Visual\Modul 5\1Dimension\bin\Debug\1Dimension.xml
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\1Dimension.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\_1Dimension.Form1.resources
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\_1Dimension.Resources.resources
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\1Dimension.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\1Dimension.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\1Dimension.exe
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\1Dimension.xml
+G:\52020007\Pemg Visual\Modul 5\1Dimension\obj\Debug\1Dimension.pdb
